@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 No try there is, do or do not.
 =======
 DO OR DO NOT, THERE IS NO TRY.
 >>>>>>> author
+=======
+DO OR DO NOT, THERE IS NO TRY.
+>>>>>>> 0406c6a... yoda edited by author
