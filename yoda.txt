@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 DO OR DO NOT, THERE IS NO TRY.
+Get busy living or get busy dying.
+>>>>>>> c9ad736... yoda edited by author
